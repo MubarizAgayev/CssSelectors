@@ -1,0 +1,161 @@
+
+body{
+    height: 1200px;
+}
+.top{
+    background-color: rgb(44, 42, 42);
+    width: 1519px;
+    height: 90px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.top .first{
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.top .second{
+    color: orange;
+    font-size: 55px;
+}
+.links{
+    background-color: rgb(68, 66, 66);
+    width: 1519px;
+    height: 55px;
+    margin-left: -8px;
+}
+.links button{
+    width: 100px;
+    height: 55px;
+    background-color: rgb(68, 66, 66);
+    border: 2px solid rgb(68, 66, 66);
+    border-right:2px solid rgb(44, 42, 42);;
+}
+.rightbar{
+    background-color: rgb(197, 192, 192);
+    width: 400px;
+    height: 900px;
+    margin-left: 1111px;
+}
+.rightbar .sidbar{
+    color: black;
+    margin-left: 20px;
+    font-size: 25px;
+}
+.hrsidbar{
+    width: 360px;
+    
+}
+h3{
+    color: rgb(255, 169, 9);
+    margin-left: 25px;
+}
+.other{
+    color: black;
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.otherwidges{
+    margin-left: 20px;
+    width: 350px;
+}
+.picture1{
+    background-color:  rgb(197, 192, 192);
+    width: 243px;
+    height: 213px;
+   margin-top: -850px;
+   margin-left: 30px;
+}
+.firsttittle{
+    margin-left: 300px;
+    margin-top: -214px;
+    font-size: 30px;
+}
+.firstparagraph{
+    margin-left: 300px;
+    width: 600px;
+    
+}
+.button1{
+    margin-left: 300px;
+    width: 100px;
+    color: orange;
+}
+.hr1{
+    width: 900px;
+    margin-left: 30px;
+}
+
+.picture2{
+    background-color:  rgb(197, 192, 192);
+    width: 243px;
+    height: 213px;
+   margin-top: 40px;
+   margin-left: 30px;
+}
+.secondtittle{
+    margin-left: 300px;
+    margin-top: -210px;
+    font-size: 30px;
+}
+.secondparagraph{
+    margin-left: 300px;
+    width: 600px;
+    
+}
+.button2{
+    margin-left: 300px;
+    width: 100px;
+    color: orange;
+}
+
+
+.picture2{
+    background-color:  rgb(197, 192, 192);
+    width: 243px;
+    height: 213px;
+   margin-top: 40px;
+   margin-left: 30px;
+}
+.secondtittle{
+    margin-left: 300px;
+    margin-top: -210px;
+    font-size: 30px;
+}
+.secondparagraph{
+    margin-left: 300px;
+    width: 600px;
+    
+}
+.button2{
+    margin-left: 300px;
+    width: 100px;
+    color: orange;
+}
+
+.picture3{
+    background-color:  rgb(197, 192, 192);
+    width: 243px;
+    height: 213px;
+   margin-top: 40px;
+   margin-left: 30px;
+}
+.thirdtittle{
+    margin-left: 300px;
+    margin-top: -210px;
+    font-size: 30px;
+}
+.thirdparagraph{
+    margin-left: 300px;
+    width: 600px;
+    
+}
+.button3{
+    margin-left: 300px;
+    width: 100px;
+    color: orange;
+}
+
+

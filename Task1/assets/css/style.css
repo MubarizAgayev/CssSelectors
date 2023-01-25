@@ -1,0 +1,171 @@
+body{
+    background-color: rgb(12, 51, 51);
+    height: 1200px;
+}
+
+div{
+    justify-content: center;
+    width: 1100px;
+    height: 300px;
+    margin-left: 200px;
+    border: 5px solid darkcyan;
+}
+.topdiv{
+    background-image: url("../shutterstock_1484419673.avif");
+    background-size: 1100px;
+    background-repeat: no-repeat;
+}
+h1{
+    margin-left: 100px;
+    padding-top: 40px;
+    color: white;
+}
+h3{
+    margin-left: 100px;
+    color: white;
+}
+.buttons{
+    background-color: rgb(14, 87, 87);
+    margin-top: 10px;
+    height: 60px;
+    border: 1px solid rgb(12, 51, 51);
+}
+
+.buttons button{
+    width: 170px;
+    height: 54px;
+    margin-top: 4px;
+    margin-left: 3px;
+    background-color: rgb(14, 87, 87);
+    border-color: rgb(14, 87, 87);
+}
+.galery{
+    margin-top: 30px;
+    background-color: rgb(12, 51, 51);
+    width: 760px;
+    margin-left: 550px;
+    border: 2px solid rgb(12, 51, 51);
+}
+.galery span{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.galery hr{
+    color: white;
+    width: 740px;
+}
+.galery p{
+    color: white;
+    font-size: 20px;
+    width: 740px;
+    margin-left: 20px;
+}
+.mainmenu{
+    background-color: rgb(12, 51, 51);
+    width: 300px;
+    height: 330px;
+    margin-top: -310px;
+    border-color: rgb(12, 51, 51);
+}
+.mainmenu span{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.mainmenu .menues{
+    background-color: rgb(12, 51, 51);
+    width: 282px;
+    height: 287px;
+    margin-left: 3px;
+    margin-top: 16px;
+    border: 2px solid rgb(10, 58, 58);
+}
+a{
+    color: white;
+    margin-left: 5px;
+    font-size: 20px;
+    
+}
+
+.otherservices{
+    background-color: white;
+    width: 380px;
+    margin-left: 923px;
+    background-color: rgb(12, 51, 51);
+    border: 5px solid rgb(12, 51, 51);
+    border-left: 2px solid white;
+}
+.otherservices span{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;  
+}
+.otherservices p{
+    color: white;
+    font-size: 20px;
+    width: 340px;
+    margin-left: 20px;
+}
+.otherservices button{
+    background-color: rgb(144, 225, 198);
+    margin-left: 20px;
+    width: 100px;
+    height: 34px;
+}
+
+.subscription{
+    width: 380px;
+    margin-left: 510px;
+    margin-top: -310px;
+    background-color: rgb(12, 51, 51);
+    border: 5px solid rgb(12, 51, 51);
+}
+.subscription span{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+}
+.subscription p{
+    color: white;
+    font-size: 20px;
+    width: 340px;
+    margin-left: 20px;
+}
+.subscription button{
+    background-color: rgb(144, 225, 198);
+    margin-left: 20px;
+    width: 100px;
+    height: 34px;
+    margin-top: -6px;
+}
+.block{
+    width: 300px;
+    margin-top: -295px;
+    background-color: rgb(12, 51, 51);
+    border: 5px solid rgb(12, 51, 51);
+}
+.block span{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+}
+.block p{
+    color: white;
+    font-size: 20px;
+    width: 200px;
+    margin-left: 20px;
+}
+.blockcontent{
+    background-color: rgb(12, 51, 51);
+    width: 282px;
+    height: 270px;
+    margin-left: 3px;
+    margin-top: 16px;
+    border: 2px solid rgb(10, 58, 58);
+}
+.hr2{
+    color: white;
+    width: 1120px;
+    margin-top: 100px;
+}
